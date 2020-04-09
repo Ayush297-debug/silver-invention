@@ -1,0 +1,5 @@
+# small code of adding some thing
+A=int(input("Enter your first number"))
+D=int(input("Enter your second number"))
+Add=(A+D)
+print (Add)
